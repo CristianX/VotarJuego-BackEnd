@@ -1,5 +1,5 @@
 ## Para ejecutar herramientas de deploy
-- `firebase deploy`
+- `firebase deploy` Siempre desde el directorio raíz
 
 ## Para correr backend localmente
 - `firebase serve`
