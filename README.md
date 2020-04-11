@@ -11,3 +11,9 @@
 ## Para escuchar cambios continuamente
 - ir a la carpeta `cd functions`
 - Ejecutar `tsc --watch`
+
+## Servidor Express
+- ir a la carpeta `cd functions`
+- Servidor Express `npm install express cors`
+- Tipado solo para desarrollo (express) `npm install @types/express --save-dev`
+- Tipado solo para desarrollo (express) `npm install @types/cors --save-dev`
