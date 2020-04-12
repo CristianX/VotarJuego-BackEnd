@@ -103,7 +103,7 @@ export const getGOTY = functions.https.onRequest( async (request, response) => {
 
          res.json({
              ok: true,
-             mensaje: `Gracia spor tu voto ${ antes.name }`
+             mensaje: `Gracias por tu voto ${ antes.name }`
          });
      }
  });
